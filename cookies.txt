@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wanjerisolutions.com	TRUE	/	FALSE	1999999999	PHPSESSID	b4af642e558a4925cc174510550e95d9
+wanjerisolutions.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+wanjerisolutions.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_d982eebd4689ebad8738af2ee446e998	t_00159e950f0608f586c33d9e58f2aa%7C%7C1666086049%7C%7C1666082449%7C%7Cc115d9802292f924acf2c49b166a287c
+wanjerisolutions.com	TRUE	/	FALSE	1999999999	woostify_product_recently_viewed	74%7C638%7C632%7C630
+wanjerisolutions.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	db9009a6b481924b4cde362ae2f961aa
+
